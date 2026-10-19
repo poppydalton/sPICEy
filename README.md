@@ -1,62 +1,72 @@
 # SpiceSense — Product Proposal
 
-**One-line pitch:** SpiceSense helps home cooks discover spices and peppers, understand flavor and heat levels, and find useful ingredient substitutes.
+**One-line pitch:** SpiceSense helps people explore peppers, learn interesting facts about them, compare their Scoville heat levels, and discover recipes that use them.
 
 ## WHO — User + Project
 
 **Project:** SpiceSense
 
-**Team:** Add team members and their initial roles or areas of responsibility.
+**Team:** Poppy Dalton, Connor Smith, Bella O'rear, Elizabeth Shelton
 
-**User story:** As a home cook, I want to explore spices and peppers and find substitutes for ingredients, so that I can make better seasoning choices when preparing food.
+**User story:** As a home cook or pepper enthusiast, I want to explore peppers, learn how hot they are, and find recipes that use them, so that I can discover new peppers and use them confidently in cooking.
 
-**Specific user/audience:** Beginner and everyday home cooks who want to learn about seasonings, compare pepper heat levels, and discover alternatives when they do not have a particular ingredient.
+**Specific user/audience:** Home cooks, spicy-food enthusiasts, beginner cooks, and people interested in learning about different pepper varieties.
 
 ## WHY — Problem + Value
 
-**Problem / opportunity:** Home cooks may not know which spices complement certain foods, how hot different peppers are, or which ingredients can substitute for one another. This can make experimenting with flavors and adapting recipes difficult.
+**Problem / opportunity:** Information about pepper varieties, heat levels, flavor profiles, and recipes can be spread across different websites and resources. People may struggle to find reliable information about a pepper or discover practical ways to use it.
 
-**Value proposition:** For home cooks who want to make informed seasoning choices, SpiceSense provides an organized guide to spices and peppers, their flavors, heat levels, cooking uses, and possible substitutes because it brings this information together in one accessible place.
+**Value proposition:** For home cooks and pepper enthusiasts, SpiceSense provides an organized resource for pepper facts, pictures, Scoville heat ratings, and recipes because it brings useful pepper information and cooking inspiration together in one place.
 
 ## WHAT ALREADY EXISTS — Landscape
 
-Research and compare approximately 3–5 existing products or alternatives:
+Research approximately 3–5 existing products, websites, or alternatives.
 
-1. **Google Search** — General way to look up spice information, pepper heat, and substitutions.
-2. **Google or other recipe websites** — Sources for seasoning combinations and ingredient alternatives.
-3. **McCormick** — Spice information, product descriptions, and cooking inspiration.
-4. **Chili Pepper Madness** — Information about chili pepper varieties, heat, and culinary uses.
-5. **Manual research and cookbooks** — Traditional ways of learning about spices, peppers, and substitutions.
+Potential resources to investigate include:
 
-For each alternative, investigate what works well, what is missing, what functionality is useful, and what SpiceSense could improve. Add links and document observations based on actual research rather than assumptions.
+1. **Google Search** — General pepper information, photographs, and recipe discovery.
+2. **Chili Pepper Madness** — Pepper information, cooking guides, and recipes.
+3. **PepperScale** — Pepper profiles, heat comparisons, and culinary information.
+4. **Allrecipes** — Recipes that use different pepper varieties.
+5. **University extension resources** — Educational information about pepper varieties, growing conditions, and handling.
 
-**Why build another one?** SpiceSense aims to bring spice discovery, pepper heat comparison, and ingredient substitution into one focused experience designed for home cooks.
+For each resource, document:
+- What it does well
+- What is missing or difficult to use
+- Which features are useful
+- What SpiceSense could learn from it
+- Why another focused pepper resource would be valuable
+
+Include links and distinguish verified findings from assumptions.
+
+**Why build another one?** SpiceSense aims to bring pepper identification and facts, heat comparisons, photographs, and recipe discovery into one focused experience.
 
 ## DONE — KILO Success Test
 
-At KILO, we should be able to demonstrate that a user can search for a spice or pepper, view its flavor profile and common cooking uses, compare pepper heat levels, and find a reasonable substitute for an ingredient.
+At KILO, we should be able to demonstrate that a user can browse or search for peppers, view their information and pictures, compare Scoville heat levels, and discover recipes that use specific peppers.
 
 The definition of done may change as research, development, and user feedback reveal what is most useful.
 
 ## PLAN — Project System
 
-**Starting point:** Establish the project repository, document requirements, research existing solutions, and determine the initial technology and data structure.
+**Starting point:** Establish the project repository, research existing resources, define the initial requirements, and decide how pepper information and images will be organized.
 
-**Direction:** Build a working application that helps users explore spices and peppers and make informed seasoning choices by the KILO checkpoint.
+**Direction:** Build a working application that makes it easy for users to explore peppers, understand their heat levels, and find recipes by the KILO checkpoint.
 
 **Initial capability directions:**
 
-1. **Spice and pepper library** — Search ingredients and view flavor profiles and cooking uses.
-2. **Pepper heat comparison** — Compare peppers using the Scoville scale and documented heat ranges.
-3. **Substitution finder** — Discover alternatives and understand differences in flavor and heat.
+1. **Pepper encyclopedia** — Browse and search pepper varieties, photographs, origins, flavor profiles, interesting facts, and culinary uses.
+2. **Scoville heat guide** — View and compare peppers using documented Scoville Heat Unit (SHU) ranges.
+3. **Pepper recipe finder** — Discover recipes that use specific peppers, with relevant ingredients, cooking information, and links to recipe sources.
 
 **Biggest unknowns:**
 
-- Which ingredient information sources are reliable and suitable?
-- How should spice and pepper information be organized and stored?
-- How should substitutions be selected and explained?
-- Which features are most valuable to the intended users?
+- Which pepper information sources are reliable?
+- Where can we obtain photographs that we are permitted to use?
+- How should pepper information and Scoville ranges be stored?
+- How should recipes be organized and linked to pepper varieties?
 - Which technologies are appropriate for the project?
+- Which additional features would provide the most value to users?
 
 **Project links:**
 
@@ -69,9 +79,11 @@ The definition of done may change as research, development, and user feedback re
 
 ## SPRING 99 — Future Possibilities
 
-After KILO, SpiceSense could expand to include personalized seasoning recommendations, recipe suggestions, pantry inventory, shopping lists, photographs for ingredient identification, and cuisine-specific seasoning guides.
+After KILO, SpiceSense could expand to include a pepper-of-the-day feature, a growing guide, a pepper handling and safety guide, saved favorites, and more advanced recipe discovery.
 
-The initial version will focus on a small, useful set of capabilities while keeping the project organized so additional features can be introduced as user needs become clearer.
+Future versions could also support additional pepper varieties, more photographs, richer culinary information, and personalized browsing preferences.
+
+The initial version will focus on pepper facts, Scoville comparisons, and recipes while keeping the project organized so additional features can be introduced as user needs become clearer.
 
 ## Project Status
 
