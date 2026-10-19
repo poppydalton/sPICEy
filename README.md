@@ -1,4 +1,4 @@
-# SpiceSense — Product Proposal
+# PepTalk — Product Proposal
 
 **One-line pitch:** SpiceSense helps people explore peppers, learn interesting facts about them, compare their Scoville heat levels, and discover recipes that use them.
 
