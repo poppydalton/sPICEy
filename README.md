@@ -66,7 +66,7 @@ Alternatively, one can consider a manual approach through, for example, purchasi
 ## 🛠️ PLAN — Project System
 
 ### 🌱 Starting Point
-We are going to utilize Isabella's class project BookNook as a basis for this since it has similar baseline features.
+We are going to utilize Isabella's class project [BookNook](https://github.com/isabellaorear31-design/fullstack-booknook) as a basis for this since it has similar baseline features.
 
 ### Direction
 We hope the project becomes something comparable to PepperScale without the downsides of its heavy advertising and limited recipe collection.
