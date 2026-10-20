@@ -1,7 +1,7 @@
 # 🌶️ PepTalk
 
 ### Pepper Information, Heat Levels, and Recipes
-SpiceSense helps home cooks and pepper enthusiasts explore pepper varieties, compare heat levels, and discover recipes featuring different peppers.
+PepTalk helps home cooks and pepper enthusiasts explore pepper varieties, compare heat levels, and discover recipes featuring different peppers.
 
 ## 👥 WHO — Our Target User
 **Target Audience:** Home cooks and pepper enthusiasts who want to learn about different peppers and use them in cooking.
@@ -14,16 +14,22 @@ SpiceSense helps home cooks and pepper enthusiasts explore pepper varieties, com
 - so that I can make informed decisions when cooking.
 
 **Team Members:**
-- Poppy Dalton, Elizabeth Shelton, Bella O'rear, and Connor Smith
+
+| Team Member | Role |
+| --- | --- |
+| Poppy Dalton | Editor |
+| Bella O'Rear | Editor |
+| Elizabeth Shelton | Developer |
+| Connor Smith | Developer |
 
 ## 🎯 WHY — Problem and Value
 - Information about pepper varieties, flavor profiles, Scoville heat ratings, and recipes is spread across multiple websites. 
 - Finding and comparing this information can take time, especially for people who are unfamiliar with different pepper varieties.
 
 **Value Proposition:**
-For home cooks and pepper enthusiasts, our application SpiceSense brings pepper information, Scoville heat ratings, and recipes together in one place because it helps users compare pepper varieties and find useful cooking information without searching multiple websites.
+For home cooks and pepper enthusiasts, our application PepTalk brings pepper information, Scoville heat ratings, and recipes together in one place because it helps users compare pepper varieties and find useful cooking information without searching multiple websites.
 
-### What SpiceSense Provides
+### What PepTalk Provides
 - 🌶️ Information about different pepper varieties.
 - 🔥 Scoville heat ratings and comparisons.
 - 🍳 Recipes featuring specific peppers.
@@ -89,7 +95,7 @@ We will research existing resources, define the target user, establish project r
 
 ### 📅 Project Milestones
 - [ ] **Discovery & Planning:** Research existing resources, define users, and establish success criteria.
-- [ ] **SpiceSense Core Features:** Develop the pepper encyclopedia, heat guide, and recipe finder.
+- [ ] **PepTalk Core Features:** Develop the pepper encyclopedia, heat guide, and recipe finder.
 - [ ] **JULIETT Demo:** Demonstrate the product and gather feedback.
 - [ ] **KILO Final Validation:** Test the application, evaluate success criteria, and document improvements.
 
@@ -100,4 +106,4 @@ We will research existing resources, define the target user, establish project r
 - 🎯 [Milestones](https://github.com/poppydalton/sPICEy/milestones)
 
 ## 🚀 SPRINT 99 — Future Direction
-If SpiceSense continued beyond the initial project, we could expand from home cooks and pepper enthusiasts to a broader community interested in growing, learning about, and cooking with peppers.
+If PepTalk continued beyond the initial project, we could expand from home cooks and pepper enthusiasts to a broader community interested in growing, learning about, and cooking with peppers.
