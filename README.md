@@ -35,24 +35,24 @@ For home cooks and pepper enthusiasts, our application PepTalk brings pepper inf
 - 🍳 Recipes featuring specific peppers.
 - 📚 Facts about pepper origins, flavors, and culinary uses.
 
-## 🔎 WHAT WILL EXIST -- landscape
-We will research 3–5 existing resources that provide pepper information, heat ratings, pictures, or recipes.
+## 🔎 WHAT ALREADY EXISTS -- landscape
+- [LiveEatLearn](https://www.liveeatlearn.com/types-of-pepper/)<br>
+   Also intended for home cooks, but suffers from the limitations of being a single blog post. Lacks a lot of relevant information and filled with heavy advertising.
+- [KeanyProduce](https://keanyproduce.com/pepper-identification-chart-know-your-peppers/)<br>
+   Intended for a general audience, but offloads too much information onto the user. It easily becomes overwhelming when searching for a single pepper's entry. Mainly used to sell the supplier's peppers.
+- [TasteOfHome](https://www.tasteofhome.com/article/guide-to-peppers-from-sweet-to-spicy/)<br>
+   Another blog with heavy advertising.
 
-For each resource, we will document:
-- [ ] Resource name and link.
-- [ ] Main features and intended audience.
-- [ ] What Peptalk could learn or do differently.
-- [ ] Sources supporting our observations.
+### Three Bad Things
+- Heavy advertising
+- Limited creativity
+- Heavy wording
 
-| Resource | What We Will Investigate |
-| --- | --- |
-| Pepper information websites | Pepper varieties, origins, flavors, and culinary uses |
-| Scoville heat guides | Heat ranges, comparisons, and sources for ratings |
-| Recipe websites | Recipe search, ingredients, and cooking instructions |
-| Current approach | How users combine multiple resources to find information |
+### Exemplary Competitor
+- [PepperScale](https://pepperscale.com/)<br>
+   Lists a multitude of peppers interactively with sauce ratings, recipes, and facts. Is very encompassing, bogged down by advertisements and a limited recipe count and recipe discoverability.
 
-**Research findings and source links:** 
-To be added after research is completed.
+Alternatively, one can consider a manual approach through, for example, purchasing a cookbook, but such methods come with a higher barrier of entry, cannot be modified, and has constraints such as recipe count.
 
 ## ✅ DONE — Definition of Success
 **At KILO, we should be able to demonstrate that a home cook can:**
@@ -63,10 +63,13 @@ To be added after research is completed.
 - [ ] 🍳 Find a recipe featuring that pepper.
 - [ ] 🧭 Complete the main tasks without assistance from the development team.
 
-## 🛠️ PLAN — Development Direction
+## 🛠️ PLAN — Project System
 
 ### 🌱 Starting Point
-We will research existing resources, define the target user, establish project requirements, and organize our GitHub repository, issues, milestones, and project board.
+We are going to utilize Isabella's class project BookNook as a basis for this since it has similar baseline features.
+
+### Direction
+We hope the project becomes something comparable to PepperScale without the downsides of its heavy advertising and limited recipe collection.
 
 ### Initial Capabilities
 
@@ -101,7 +104,7 @@ We will research existing resources, define the target user, establish project r
 
 ### 🔗 Project Links
 
-- 📋 [Project Proposal](https://github.com/poppydalton/sPICEy/edit/main/README.md)
+- 📋 [Project Proposal](https://github.com/poppydalton/sPICEy/main/README.md)
 - 🐛 [Issues](https://github.com/poppydalton/sPICEy/issues)
 - 🎯 [Milestones](https://github.com/poppydalton/sPICEy/milestones)
 
