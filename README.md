@@ -18,7 +18,7 @@ PepTalk helps home cooks and pepper enthusiasts explore pepper varieties, compar
 | Team Member | Role |
 | --- | --- |
 | Poppy Dalton | Editor |
-| Bella O'Rear | Editor |
+| Isabella O'Rear | Editor |
 | Elizabeth Shelton | Developer |
 | Connor Smith | Developer |
 
