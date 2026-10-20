@@ -99,5 +99,5 @@ We will research existing resources, define the target user, establish project r
 - 🐛 [Issues](https://github.com/poppydalton/sPICEy/issues)
 - 🎯 [Milestones](https://github.com/poppydalton/sPICEy/milestones)
 
-## 🚀 SPRING 99 — Future Direction
+## 🚀 SPRINT 99 — Future Direction
 If SpiceSense continued beyond the initial project, we could expand from home cooks and pepper enthusiasts to a broader community interested in growing, learning about, and cooking with peppers.
