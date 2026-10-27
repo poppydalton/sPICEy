@@ -104,7 +104,7 @@ We hope the project becomes something comparable to PepperScale without the down
 
 ### 🔗 Project Links
 
-- 📋 [Project Proposal](https://github.com/poppydalton/sPICEy/blob/main/README.md)
+- 📋 [Project Proposal](https://github.com/poppydalton/sPICEy/blob/main/docs/README.md)
 - 🐛 [Issues](https://github.com/poppydalton/sPICEy/issues)
 - 🎯 [Milestones](https://github.com/poppydalton/sPICEy/milestones)
 
