@@ -98,6 +98,90 @@ h1, h2, h3 {
     color: var(--accent-strong);
 }
 
+.contact-shell {
+    padding: 2rem;
+    background: linear-gradient(135deg, rgba(255, 250, 247, 0.98), rgba(255, 247, 239, 0.95));
+}
+
+.contact-copy {
+    padding: 0.5rem 0;
+}
+
+.eyebrow {
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    font-size: 0.75rem;
+    font-weight: 700;
+    color: var(--accent);
+    margin-bottom: 0.75rem;
+}
+
+.contact-copy h2 {
+    margin-bottom: 1rem;
+}
+
+.contact-details {
+    margin-top: 1.5rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--border);
+    color: var(--muted);
+}
+
+.contact-form {
+    background: rgba(255, 255, 255, 0.75);
+    border: 1px solid var(--border);
+    border-radius: 18px;
+    padding: 1.5rem;
+    box-shadow: 0 8px 24px rgba(110, 63, 43, 0.07);
+}
+
+.contact-form label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+    color: var(--accent-strong);
+}
+
+.contact-form input,
+.contact-form textarea {
+    width: 100%;
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 0.8rem 0.95rem;
+    background: #fffaf7;
+    color: var(--text);
+    transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.contact-form input:focus,
+.contact-form textarea:focus {
+    outline: none;
+    border-color: var(--accent);
+    box-shadow: 0 0 0 3px rgba(217, 119, 87, 0.12);
+}
+
+.contact-form textarea {
+    min-height: 150px;
+    resize: vertical;
+}
+
+.contact-btn {
+    background: linear-gradient(135deg, var(--accent) 0%, var(--accent-soft) 100%);
+    border: none;
+    color: white;
+    font-weight: 600;
+    padding: 0.75rem 1.5rem;
+    border-radius: 999px;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.contact-btn:hover,
+.contact-btn:focus {
+    color: white;
+    transform: translateY(-1px);
+    box-shadow: 0 8px 18px rgba(217, 119, 87, 0.24);
+}
+
 .btn-success,
 .btn-success:hover,
 .btn-success:focus,
