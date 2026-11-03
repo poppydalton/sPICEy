@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dandelion Parade</title>
+    <title>PepTalk</title>
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -19,13 +19,14 @@
     <div class="container">
         <div class="d-flex justify-content-between align-items-center flex-wrap gap-3">
             <div>
-                <h1 class="mb-1">Dandelion Parade</h1>
-                <p class="mb-0 text-muted">A living plant journal for discoveries, recipes, and rituals.</p>
+                <h1 class="mb-1">PepTalk</h1>
+                <p class="mb-0 text-muted">Pepper facts, recipes, and ranks</p>
             </div>
             <nav class="nav-links">
                 <a href="index.html">Home</a>
                 <a href="pages/about.html">About</a>
-                <a href="pages/projects.html">Projects</a>
+                <a href="pages/projects.html">Recipes</a>
+                <a href="pages/ranking.html">Ranking</a>
                 <a href="pages/contact.html">Contact</a>
                 <a href="pages/admin.html">Admin</a>
                 <a href="pages/auth.html">Login</a>
@@ -38,8 +39,8 @@
     <section class="hero card mb-4">
         <div class="row g-4 align-items-center">
             <div class="col-lg-8">
-                <h2>Welcome to the parade</h2>
-                <p class="mb-0">This project now acts as a small knowledge base for plants, remedies, and household uses. You can browse entries, search by keyword, and save favorites.</p>
+                <h2>Welcome to PepTalk</h2>
+                <p class="mb-0">This website is for pepper facts, pepper recipes, and pepper ranks.</p>
             </div>
             <div class="col-lg-4">
                 <div class="auth-card">
@@ -56,7 +57,7 @@
     <section class="card">
         <div class="d-flex justify-content-between align-items-center flex-wrap gap-2 mb-3">
             <div>
-                <h3 class="mb-1">Plant log</h3>
+                <h3 class="mb-1">Recipes Galore</h3>
                 <p class="mb-0 text-muted">Search, filter, sort, and favorite your entries.</p>
             </div>
             <button id="saveGistBtn" class="btn btn-outline-success btn-sm">Save to gist</button>
@@ -89,7 +90,7 @@
     </section>
 
     <section class="card mt-4">
-        <h3 class="mb-3">Add or edit an entry</h3>
+        <h3 class="mb-3">Add a recipe</h3>
         <form id="entryForm">
             <div class="row g-3">
                 <div class="col-md-6">
@@ -106,7 +107,7 @@
                 </div>
                 <div class="col-md-6">
                     <label class="form-label" for="entryTags">Tags</label>
-                    <input id="entryTags" class="form-control" placeholder="tea, medicinal, spring">
+                    <input id="entryTags" class="form-control" placeholder="savory, sweet, etc.">
                 </div>
                 <div class="col-md-6">
                     <label class="form-label" for="entryLinkLabel">Link label</label>

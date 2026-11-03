@@ -218,7 +218,7 @@ if (logoutBtn) {
 if (saveGistBtn) {
     saveGistBtn.addEventListener('click', () => {
         const gistPayload = {
-            description: 'Dandelion Parade entries',
+            description: 'PepTalk entries',
             public: false,
             files: {
                 'entries.json': { content: JSON.stringify(entries, null, 2) }

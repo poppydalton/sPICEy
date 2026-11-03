@@ -1,4 +1,4 @@
-# Project guidance for Dandelion Parade
+# Project guidance for PepTalk
 
 - Keep the site lightweight and browser-based.
 - Prefer semantic HTML, accessible labels, and simple JavaScript patterns.
