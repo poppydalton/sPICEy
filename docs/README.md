@@ -108,5 +108,5 @@ We hope the project becomes something comparable to PepperScale without the down
 - 🐛 [Issues](https://github.com/poppydalton/sPICEy/issues)
 - 🎯 [Milestones](https://github.com/poppydalton/sPICEy/milestones)
 
-## 🚀 SPRINT 99 — Future Direction
+## [🚀 SPRINT 99 — Future Direction](https://github.com/poppydalton/sPICEy/milestone/2)
 If PepTalk continued beyond the initial project, we could expand from home cooks and pepper enthusiasts to a broader community interested in growing, learning about, and cooking with peppers.
