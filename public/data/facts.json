@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Bell Pepper",
+    "description": "Bell peppers are the mild, sweet-fruited form of Capsicum annuum. They are botanically fruits, and can turn from green to red, yellow, or other colors as they ripen.",
+    "tags": ["Capsicum annuum", "mild", "sweet"],
+    "image": "https://www.lipmanfamilyfarms.com/wp-content/uploads/2020/09/Colored-Pepper-hero@2x.png"
+  },
+  {
+    "id": 2,
+    "title": "Cayenne",
+    "description": "Cayenne peppers are usually long, slender, hot varieties of Capsicum annuum. Their heat commonly falls around 30,000–50,000 Scoville Heat Units, though it varies by variety and growing conditions.",
+    "tags": ["Capsicum annuum", "hot", "30,000–50,000 SHU"],
+    "image": "https://static.vecteezy.com/system/resources/previews/055/389/299/non_2x/cayenne-pepper-on-a-transparent-background-showcasing-its-vibrant-red-color-and-curved-shape-suitable-for-culinary-use-and-decoration-cayenne-pepper-isolated-on-transparent-background-free-png.png"
+  },
+  {
+    "id": 3,
+    "title": "Carolina Reaper",
+    "description": "The Carolina Reaper is a Capsicum chinense hybrid bred by Ed Currie. Guinness World Records recognized it in 2013 as the world's hottest chili pepper, with an average heat of 1,641,183 Scoville Heat Units.",
+    "tags": ["Capsicum chinense", "extremely hot", "1,641,183 SHU"],
+    "image": "https://cdn.shopify.com/s/files/1/0328/4621/7351/files/Elijah_s_Xtreme_Carolina_Reaper_1.webp?v=1722452407"
+  }
+]
