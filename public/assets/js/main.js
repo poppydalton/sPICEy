@@ -17,21 +17,30 @@ let favorites = new Set(JSON.parse(localStorage.getItem('favorites') || '[]'));
 
 function loadEntries() {
     const localData = localStorage.getItem('savedEntries');
-    if (localData) {
-        entries = JSON.parse(localData);
-        render();
-        return;
-    }
+    const sourceUrl = new URL('../../data/projects.json', document.currentScript.src);
 
-    fetch('data/projects.json')
+    fetch(sourceUrl, { cache: 'no-store' })
         .then((response) => response.json())
         .then((data) => {
-            entries = data;
+            const sourceSnapshot = JSON.stringify(data);
+            const sourceChanged = localStorage.getItem('projectsJsonSnapshot') !== sourceSnapshot;
+
+            if (!localData || sourceChanged) {
+                const sourceIds = new Set(data.map((entry) => entry.id));
+                const localEntries = localData
+                    ? JSON.parse(localData).filter((entry) => !sourceIds.has(entry.id))
+                    : [];
+                entries = [...data, ...localEntries];
+                localStorage.setItem('projectsJsonSnapshot', sourceSnapshot);
+            } else {
+                entries = JSON.parse(localData);
+            }
+
             persistEntries();
             render();
         })
         .catch(() => {
-            entries = [];
+            entries = localData ? JSON.parse(localData) : [];
             render();
         });
 }
