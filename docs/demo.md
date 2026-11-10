@@ -2,7 +2,8 @@
 
 ## 0:00 — Problem
 
-[30-second problem in class video]
+[30-second problem video](https://github.com/user-attachments/assets/a4156e57-8df3-48f4-92a6-ce226c47490f)
+
 
 Explain how pepper information, Scoville heat ratings, and recipes are spread across multiple websites, making it difficult for home cooks to compare peppers and find useful information.
 
