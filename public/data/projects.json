@@ -29,7 +29,7 @@
     "tags": ["seasoning", "carolina reaper peppers"],
     "favorite": false,
     "links": [
-      { "label": "example", "url": "https://foragerchef.com/chili-pepper-salt/" }
+      { "label": "foragerchef", "url": "https://foragerchef.com/chili-pepper-salt/" }
     ]
   }
 ]
