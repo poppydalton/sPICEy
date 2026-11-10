@@ -17,7 +17,7 @@ Our target user is a home cook or pepper enthusiast who wants to explore unfamil
 
 ## 1:30 — Live Product
 
-[OPEN PEPTALK DEMO](https://github.com/poppydalton/sPICEy/edit/main/docs/juliett.md)
+[OPEN PEPTALK DEMO](https://github.com/poppydalton/sPICEy/blob/main/docs/juliett.md)
 
 1. Open the PepTalk homepage.
 2. Navigate to the pepper facts page.
