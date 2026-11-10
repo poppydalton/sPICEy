@@ -33,8 +33,6 @@ Our target user is a home cook or pepper enthusiast who wants to explore unfamil
 
 [Show one meaningful system thread](https://github.com/poppydalton/sPICEy/blob/main/public/assets/js/facts.js)
 
-Explain how the existing project code was updated and reused to create PepTalk.
-
 ```
 if (fact.image) {
             const image = document.createElement('img');
