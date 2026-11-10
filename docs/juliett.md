@@ -15,7 +15,7 @@ Our target user is a home cook or pepper enthusiast who wants to explore unfamil
 
 **Scenario:** A home cook wants to find a pepper for a recipe, compare its heat level with another pepper, and discover ways to use it.
 
-## 1:30 — Live Product
+## 1:30 — Live Product & Something Interesting
 
 [OPEN PEPTALK DEMO](https://github.com/poppydalton/sPICEy/blob/main/docs/juliett.md)
 
@@ -29,7 +29,7 @@ Our target user is a home cook or pepper enthusiast who wants to explore unfamil
 [OPEN PEPTALK DEMO VIDEO](https://github.com/user-attachments/assets/417f3187-c4ef-41ec-a9f8-0d4ef7e84226)
 
 
-## 5:00 — Something Interesting & Behind the Curtain
+## 5:00 — Behind the Curtain
 
 [Show one meaningful system thread](https://github.com/poppydalton/sPICEy/blob/main/public/assets/js/facts.js)
 
