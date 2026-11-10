@@ -1,35 +1,35 @@
 [
   {
     "id": 1,
-    "title": "Dandelion Tea",
-    "description": "A bright herbal infusion made from young dandelion leaves and petals for a gentle spring tonic.",
+    "title": "Stuffed Bell Peppers",
+    "description": "A simple and delicious stuffed bell pepper recipe that is easy to make and perfect for a weeknight dinner.",
     "date": "2026-04-12",
-    "tags": ["tea", "medicinal", "spring"],
+    "tags": ["appetizer","bell peppers","dinner","easy","healthy","main course"],
     "favorite": true,
     "links": [
-      { "label": "example", "url": "" }
+      { "label": "budgetbytes", "url": "https://www.budgetbytes.com/stuffed-bell-peppers/" }
     ]
   },
   {
     "id": 2,
-    "title": "Plantain Poultice",
-    "description": "A soothing leaf poultice for minor skin irritations and everyday garden scrapes.",
+    "title": "BBQ Sauce with Cayenne Peppers",
+    "description": "A simple and delicious spicy BBQ sauce recipe so go with any cookout.",
     "date": "2026-05-02",
-    "tags": ["healing", "outdoor"],
+    "tags": ["cayenne peppers", "sauce"],
     "favorite": false,
     "links": [
-      { "label": "example", "url": "" }
+      { "label": "nytimes", "url": "https://cooking.nytimes.com/recipes/1027395-kansas-city-style-bbq-sauce" }
     ]
   },
   {
     "id": 3,
-    "title": "Mint Hydrosol",
-    "description": "A cooling mint steam blend that works well as a room refresher and a simple kitchen scent.",
+    "title": "Chili Pepper Salt",
+    "description": "A simple and versatile seasoning blend that adds a kick of heat to any dish.",
     "date": "2026-06-10",
-    "tags": ["kitchen", "refreshing"],
+    "tags": ["seasoning", "carolina reaper peppers"],
     "favorite": false,
     "links": [
-      { "label": "example", "url": "" }
+      { "label": "example", "url": "https://foragerchef.com/chili-pepper-salt/" }
     ]
   }
 ]
